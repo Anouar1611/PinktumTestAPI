@@ -8,11 +8,11 @@
 ### Running the Application
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/Anouar1611/your-repository.git
+   git clone https://github.com/Anouar1611/PinktumTestAPI.git
 
 ### Change directory to the repository
 
-`cd your-repository`
+`cd PinktumTestAPI`
 
 
 ### Compile and package the application using Maven:
